@@ -4,8 +4,9 @@
 /dist
 /tmp
 /out-tsc
-/www
 /sourcemaps
+www/*
+!www/README.md
 
 # dependencies
 node_modules
