@@ -17,7 +17,7 @@ cordova run android
 `cordova run android --dev` do a dev (Just in Time) build
 `cordova run android --aot` do an "Ahead of Time" build
 `cordova run android --prod` do a production build
-`cordova build android --prod --release` do a release
+`cordova build android --prod --release` do an Android release
 
 ### Develop in web browser
 ```
