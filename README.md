@@ -22,6 +22,8 @@ cordova run android
 
 `cordova build android --prod --release` do an Android release
 
+`cordova build ios --prod` do an iOS release (basically a normal production build)
+
 ### Develop in web browser
 ```
 npm start
